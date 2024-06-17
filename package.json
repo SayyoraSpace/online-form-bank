@@ -1,0 +1,24 @@
+{
+  "name": "online-payment-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "devDependencies": {
+  "parcel": "^2.0.0"
+  },
+  "dependencies": {
+  "card-validator": "^9.1.0",
+  "email-validator": "^2.0.4",
+  "inputmask": "^5.0.8",
+  "redom": "^4.0.0"
+}
+
+
+
+
+
+
+}
